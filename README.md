@@ -1,4 +1,4 @@
-https://admin-page-react-eb1dqg91s-trangiahien.vercel.app/
+https://admin-page-react.vercel.app/
 
 # Getting Started with Create React App
 
